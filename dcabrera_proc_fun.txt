@@ -1,0 +1,7 @@
+1. /proc/version: 
+Linux version 3.5.0-26-generic (buildd@lamiak) (gcc version 4.7.2 (Ubuntu/Linaro 4.7.2-2ubuntu1) ) #42-Ubuntu SMP Fri Mar 8 23:18:20 UTC 2013
+2. /proc/filesystems: yes
+3. /proc/swaps: 1045500 
+4. /proc/8837/cmdline: ssh^@dcabrera@eniac.seas.upenn.edu^@
+5. /proc/8207/cmdline: /usr/lib/firefox/firefox^@
+6. /proc/cpuinfo: 2527.010

@@ -1,0 +1,4 @@
+#!/bin/sh
+echo hahahah
+unset GIT_DIR
+GIT_WORK_TREE=~/final.git git checkout -f
